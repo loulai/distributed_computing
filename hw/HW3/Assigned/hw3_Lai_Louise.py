@@ -16,4 +16,3 @@ with open("./output.txt", "w") as file:
             file.write("{}\n".format(line))
 
 sc.stop()
-
